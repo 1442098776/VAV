@@ -1,0 +1,9 @@
+.informationCount{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.informationCount p{
+	text-align: center;
+	color: #333;
+	font-size: 16px;
+}

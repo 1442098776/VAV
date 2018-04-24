@@ -1,0 +1,93 @@
+body {
+    height: 100%!important;
+}
+
+.about-001 {
+    margin-top: 40px;
+}
+
+.about-001 .about-001-1,
+.about-001 .about-001-2 {
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    background-color: #fff;
+}
+.about-001 .about-001-3 {
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    background-color: #fff;
+}
+.about-001 .about-001-1 .about-001-1-l {
+    position: absolute;
+    left: 50px;
+    top: 70px;
+    z-index: 999;
+    width: 50%;
+}
+.about-001 .about-001-1 .about-001-1-r {
+    width: 50%;
+    position: absolute;
+    top: 0;
+    right: 80px;
+}
+
+.about-001 .about-001-2 .about-001-2-l {
+    position: absolute;
+    left: 50px;
+    top: -50px;
+    width: 50%;
+}
+.about-001 .about-001-2 .about-001-2-r {
+    width: 40%;
+    background-color: #fff;
+    position: absolute;
+    top: -120px;
+    right: 230px;
+}
+.about-001 .about-001-2 .about-001-2-r .about-001-2-m {
+    padding: 80px 15px;
+    z-index: 999;
+}
+.about-001 .about-001-3 .about-001-3-l {
+    width: 40%;
+    position: absolute;
+    left: 50px;
+    top: -200px;
+    z-index: 999;   
+}
+.about-001 .about-001-3 .about-001-3-l .about-001-3-m {
+    padding: 40px 15px;
+    z-index: 999;
+    background-color: #fff;
+}
+.about-001 .about-001-3 .about-001-3-r {
+    position: absolute;
+    top: -200px;
+    right: 80px;
+}
+
+.about-002 {
+    margin-top: 50px;
+}
+.about-002 .heading h2 {
+    /* font-size: 36px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 15px;
+    border-top: 2px solid #C22083; */
+
+    color: #C22083!important;
+    padding-top: 10px;
+    border-top: 2px solid #C22083;
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
